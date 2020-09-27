@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background-color: wheat(255, 0, 0);
+
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1140px;
+    background-color: white;
+    height: 700px;
+    margin: auto;
+    padding: 20px 30px;
+}
+h1{
+    font-size: 30px;
+    color: black;
+    background-color: red;
+    margin: 20px;
+    height: 80px;
+    padding: 10px 15px;
+}
+
+nav{
+    float: left;
+    width: 100%;
+    background-color: red (160, 197, 26);
+    text-align: center;
+    padding: 30px 15px;
+}
+
+.flex-row{
+    background-color: rgb(11, 217, 224);
+    text-align: left;
+        width: 100%;
+        border-collapse: collapse;
+        border-style: solid;
+        
+    }
+
+
+
+
+.flex-row-reverse{
+    background-color: blueviolet;
+    text-align: left;
+    width: 100%;
+    border-style: solid;
+    border-collapse: collapse;
+    border-color: lightcoral;
+    
+}
+
+.d-flex1{
+    background-color: rgb(76, 219, 19);
+    text-align: left;
+    width: 100%;
+    border-style: groove;
+    border-collapse: collapse;
+    
+}
+
